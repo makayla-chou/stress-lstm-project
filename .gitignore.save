@@ -1,0 +1,10 @@
+# Ignore data files
+data/*
+!data/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
+
